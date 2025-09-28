@@ -1,0 +1,11 @@
+adjective = input("Enter an ajdective :")
+noun = input("Enter a noun :")
+verb = input("Enter a verb :")
+verb2 = input("Enter another verb :")
+noun2 = input("Enter another noun :")
+
+print(f"Good blade of the {adjective} moon")
+print(f"The Only {noun} of our company")
+print(f"Swear thy oath and {verb} thy solemn duty")
+print(f"The dark moon knights {verb2} arms")
+print(f"To watch over those who linked the first {noun2}")
